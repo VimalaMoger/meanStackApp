@@ -1,4 +1,5 @@
-MEAN stack (MongoDB, Express.js, Angular, Node.js)
+**MEAN Stack - MongoDB, Express.js, Angular, Node.js**
+
 This app contains a table view of employees data, each record with edit and delete buttons, at the top of the table, there is Add Employee button, which takes us to a page where we can add Employee information and submit
 
 For the Front-End
